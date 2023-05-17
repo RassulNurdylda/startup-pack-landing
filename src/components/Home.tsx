@@ -1,4 +1,5 @@
 import Features from "./Features";
+import Feedback from "./Feedback";
 import Page from "./Page";
 
 const Home = () => {
@@ -6,6 +7,7 @@ const Home = () => {
     <main>
       <Page />
       <Features />
+      <Feedback />
     </main>
   );
 };
