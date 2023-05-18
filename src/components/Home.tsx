@@ -1,3 +1,4 @@
+import Comment from "./Comment";
 import Features from "./Features";
 import Feedback from "./Feedback";
 import Mide from "./Mide";
@@ -10,6 +11,7 @@ const Home = () => {
       <Features />
       <Feedback />
       <Mide />
+      <Comment />
     </main>
   );
 };
