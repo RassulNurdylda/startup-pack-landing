@@ -1,7 +1,7 @@
 const Feedback = () => {
   return (
     <div>
-      <div className="relative w-full h-[800px] md:h-[1300px] lg:h-[1337px] ">
+      <div className="relative w-full h-[600px] md:h-[900px] lg:h-[956px] ">
         <div className="absolute left-0 bottom-0">
           <img src="bg2.png" className="object-contain" />
         </div>
